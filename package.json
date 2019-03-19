@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:msafronov/numerologic.git"
+    "url": "git@github.com:brutalchrist/numerologic.git"
   },
   "keywords": [
     "numerologic",
@@ -33,13 +33,17 @@
     "chai": "1.10.x"
   },
   "bugs": {
-    "url": "https://github.com/msafronov/numerologic/issues"
+    "url": "https://github.com/brutalchrist/numerologic/issues"
   },
-  "homepage": "https://github.com/msafronov/numerologic",
+  "homepage": "https://github.com/brutalchrist/numerologic",
   "maintainers": [
     {
       "name": "msafronov",
       "email": "safronov.matvey@gmail.com"
+    },
+    {
+      "name": "brutalchrist",
+      "email": "brutalchrist@gmail.com"
     }
   ]
 }
